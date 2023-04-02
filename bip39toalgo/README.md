@@ -10,4 +10,4 @@ was rebuilt from sources. This seemed the appropriate way, as `bip39toalgo` hand
 - Single file web app at <https://a-maugli.github.io/bip39toalgo/bip39toalgo-webapp.html>
 - Downloadable zip at <https://a-maugli.github.io/bip39toalgo/bip39toalgo-webapp.zip>
 - SHA256SUM of zip at <https://a-maugli.github.io/bip39toalgo/SHA256SUM>
-
+- jsdoc at <https://a-maugli.github.io/bip39toalgo/docs>
